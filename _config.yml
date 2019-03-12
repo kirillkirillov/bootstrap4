@@ -17,12 +17,12 @@ title: Bootstrap 4 Github Pages
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   A Bootstrap 4 start up project for Jekyll and Github Pages
-#baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/bootstrap4" # the subpath of your site, e.g. /blog
 url: "/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-repository: "bt4"
+repository: "bootstrap4"
 
 # Build settings
 plugins:
